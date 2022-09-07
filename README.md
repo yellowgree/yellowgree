@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! My name is Park Ha Eun. 
+I'm a student at Gachon University and majoring in software.
+I have a dream of becoming an information security expert(White Hacker).
+So I'm currently studying various things. GitHub is one of them. 
+From now on, I'll share the code that I studied and made here.
+There's still a lot to study, but look at my growth. Thank you.
+
 
 <!--
 **yellowgree/yellowgree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
